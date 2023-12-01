@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 20px;
+}
+div {
+    width: 50%;
+    height: 20%;
+    resize: both;
+}
